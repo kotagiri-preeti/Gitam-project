@@ -1,7 +1,7 @@
 import tkinter as tk
 
 root = tk.Tk()
-logo = tk.PhotoImage(file="img.jpg")
+logo = tk.PhotoImage(file="ab.jpg")
 
 w1 = tk.Label(root, image=logo).pack(side="right")
 
